@@ -1,0 +1,18 @@
+This problem is a programming version of Problem 47 from projecteuler.net
+
+The first two consecutive numbers to have two distinct prime factors are:
+14 = 2 X 7
+15 = 3 X 5
+
+The first three consecutive numbers to have three distinct prime factors are:
+644 = 2^2 X 7 X 23
+645 = 3 X 5 X 43
+646 = 2 X 17 X 19
+
+Given N find all the K consecutive integers, where first integer is  ≤ N to have exactly K distinct prime factors. Print the first of these numbers in ascending order.
+
+Input Format
+Input contains two integers N and K.
+
+Output Format
+Print the answer corresponding to the test case. Print each integer in a new line.

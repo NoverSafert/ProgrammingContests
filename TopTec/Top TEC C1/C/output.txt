@@ -1,0 +1,10 @@
+Sample Output#00
+
+14
+20
+Sample Input#01
+
+644 3
+Sample Output
+
+644

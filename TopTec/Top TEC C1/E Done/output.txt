@@ -1,0 +1,17 @@
+*D*
+DDD
+*D*
+
+**D**
+*DDD*
+DDDDD
+*DDD*
+**D**
+
+***D***
+**DDD**
+*DDDDD*
+DDDDDDD
+*DDDDD*
+**DDD**
+***D***
